@@ -29,7 +29,7 @@ public class DialogFragment extends androidx.fragment.app.DialogFragment {
                              Bundle savedInstanceState) {
         view = inflater.inflate(R.layout.fragment_dialog, container, false);
         titulo=(TextView)view.findViewById(R.id.titulo);
-        imagen=(ImageView) view.findViewById(R.id.imagen);
+        imagen=(ImageView) view.findViewById(R.id.imageView);
         recyclerViewGaleria=(RecyclerView) view.findViewById(R.id.galeria);
 
         imagen.setOnClickListener(new View.OnClickListener() {

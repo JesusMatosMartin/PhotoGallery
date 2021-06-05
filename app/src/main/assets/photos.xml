@@ -1,0 +1,26 @@
+<photos>
+	<photo>
+		<url>"arbol.jpg"</url>
+		<comment>"Arbol en un amanecer a las orillas del mar"</comment>
+	</photo>
+	<photo>
+		<url>"mar.jpg"</url>
+		<comment>"Olas del mar al atardecer"</comment>
+	</photo>
+	<photo>
+		<url>"nubes.jpg"</url>
+		<comment>"Nubes al atardecer"</comment>
+	</photo>
+	<photo>
+		<url>"plantas.jpg"</url>
+		<comment>"Plantas al atardecer"</comment>
+	</photo>
+	<photo>
+		<url>"sabana.jpg"</url>
+		<comment>"Sabana al atardecer"</comment>
+	</photo>
+	<photo>
+		<url>"sabana2.jpg"</url>
+		<comment>"Sabana 2 al atardecer"</comment>
+	</photo>
+</photos>
